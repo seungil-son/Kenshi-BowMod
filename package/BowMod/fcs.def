@@ -1,0 +1,4 @@
+[CROSSBOW]
+bowmod bow: false "Use independent bow proficiency"
+[STATS]
+bowmod skill: 1.0 "BowMod bow proficiency"

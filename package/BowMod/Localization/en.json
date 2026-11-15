@@ -1,0 +1,91 @@
+{
+  "records": {
+    "400-BowMod.mod": [
+      "Longbow",
+      "A powerful long-range bow for opening shots and rear-line support. Demanding to use at close quarters. Uses 32-inch arrows."
+    ],
+    "600-BowMod.mod": [
+      "Bow Test 1 - Longbow",
+      ""
+    ],
+    "401-BowMod.mod": [
+      "Yumi",
+      "A traditional bow for accurate medium-to-long-range support. More expensive than a basic recurve. Uses 32-inch arrows."
+    ],
+    "601-BowMod.mod": [
+      "Bow Test 2 - Yumi",
+      ""
+    ],
+    "402-BowMod.mod": [
+      "Horn Bow",
+      "A powerful composite bow for short-to-medium-range fighting. Limited range and rough accuracy, with costly construction. Uses 26-inch arrows."
+    ],
+    "602-BowMod.mod": [
+      "Bow Test 3 - Horn Bow",
+      ""
+    ],
+    "403-BowMod.mod": [
+      "Shortbow",
+      "A cheap, portable bow for rapid close-range harassment before switching to a melee weapon. Weak against heavy armour. Uses 26-inch arrows."
+    ],
+    "603-BowMod.mod": [
+      "Bow Test 4 - Shortbow",
+      ""
+    ],
+    "404-BowMod.mod": [
+      "Recurve Bow",
+      "A versatile bow for hunting, travel and steady squad support, with balanced range and accuracy. Uses 26-inch arrows."
+    ],
+    "604-BowMod.mod": [
+      "Bow Test 5 - Recurve Bow",
+      ""
+    ],
+    "405-BowMod.mod": [
+      "Recurve Bow II",
+      "An advanced recurve for sustained long-range fire. Beginners draw slowly; experienced archers get much more from it. Uses 32-inch arrows."
+    ],
+    "605-BowMod.mod": [
+      "Bow Test 6 - Recurve Bow II",
+      ""
+    ],
+    "210-BowMod.mod": [
+      "Arrows [26 inch]",
+      "20 arrows for bows. Not compatible with crossbows."
+    ],
+    "211-BowMod.mod": [
+      "Arrows [32 inch]",
+      "20 arrows for bows. Not compatible with crossbows."
+    ],
+    "500-BowMod.mod": [
+      "Basic Bow Crafting",
+      "Craft shortbows, recurve bows and both arrow sizes. Learn the foundations of fast-firing archery."
+    ],
+    "501-BowMod.mod": [
+      "Specialist Bow Crafting",
+      "Unlock the Yumi for precision support and the Horn Bow for close-range power. Requires Basic Bow Crafting."
+    ],
+    "502-BowMod.mod": [
+      "Advanced Bow Crafting",
+      "Unlock the Longbow for powerful opening shots and Recurve Bow II for sustained fire. Requires Specialist Bow Crafting."
+    ],
+    "610-BowMod.mod": [
+      "Bow Test",
+      ""
+    ],
+    "620-BowMod.mod": [
+      "Bow Test",
+      "Development start: six characters with all six bows and arrows."
+    ]
+  },
+  "ui": {
+    "BOW_LABEL": "Bows",
+    "BOW_DESCRIPTION": "Bow proficiency improves accuracy and drawing speed. Effective proficiency grows slowly through level 60, then accelerates from 61 to 100. Trains and saves separately from crossbows. Injuries reduce performance. Precision Shooting is shared with crossbows.",
+    "AFFECTED": "Affected attributes:",
+    "ACCURACY": "-Accuracy:",
+    "RELOAD": "-Drawing / reload speed:",
+    "PRECISION": "-Friendly-fire avoidance:",
+    "TRAINING": "How to train:",
+    "TRAIN_BOW": "-Attack targets with a bow",
+    "SHARED_PRECISION": "-Precision Shooting is shared with crossbows"
+  }
+}

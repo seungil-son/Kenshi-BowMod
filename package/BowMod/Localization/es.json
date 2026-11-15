@@ -1,0 +1,91 @@
+{
+  "records": {
+    "400-BowMod.mod": [
+      "Arco largo",
+      "Arco potente para ataques iniciales a larga distancia y apoyo desde la retaguardia. Difícil de manejar de cerca. Usa flechas de 32 pulgadas."
+    ],
+    "600-BowMod.mod": [
+      "Prueba de arcos 1 - Arco largo",
+      ""
+    ],
+    "401-BowMod.mod": [
+      "Yumi",
+      "Arco tradicional para apoyo preciso a media y larga distancia. Más caro que el recurvo básico. Usa flechas de 32 pulgadas."
+    ],
+    "601-BowMod.mod": [
+      "Prueba de arcos 2 - Yumi",
+      ""
+    ],
+    "402-BowMod.mod": [
+      "Arco de cuerno",
+      "Arco compuesto potente para combatir a corta y media distancia. Alcance y precisión limitados; fabricación costosa. Usa flechas de 26 pulgadas."
+    ],
+    "602-BowMod.mod": [
+      "Prueba de arcos 3 - Arco de cuerno",
+      ""
+    ],
+    "403-BowMod.mod": [
+      "Arco corto",
+      "Arco barato y portátil para hostigar de cerca antes de cambiar a un arma cuerpo a cuerpo. Débil contra armaduras pesadas. Usa flechas de 26 pulgadas."
+    ],
+    "603-BowMod.mod": [
+      "Prueba de arcos 4 - Arco corto",
+      ""
+    ],
+    "404-BowMod.mod": [
+      "Arco recurvo",
+      "Arco versátil para cazar, viajar y dar apoyo constante al grupo. Alcance y precisión equilibrados. Usa flechas de 26 pulgadas."
+    ],
+    "604-BowMod.mod": [
+      "Prueba de arcos 5 - Arco recurvo",
+      ""
+    ],
+    "405-BowMod.mod": [
+      "Arco recurvo II",
+      "Recurvo avanzado para fuego sostenido a larga distancia. Los principiantes tensan lentamente; los expertos aprovechan mejor su rendimiento. Usa flechas de 32 pulgadas."
+    ],
+    "605-BowMod.mod": [
+      "Prueba de arcos 6 - Arco recurvo II",
+      ""
+    ],
+    "210-BowMod.mod": [
+      "Flechas [26 pulgadas]",
+      "20 flechas para arcos. No compatibles con ballestas."
+    ],
+    "211-BowMod.mod": [
+      "Flechas [32 pulgadas]",
+      "20 flechas para arcos. No compatibles con ballestas."
+    ],
+    "500-BowMod.mod": [
+      "Fabricación básica de arcos",
+      "Permite fabricar arcos cortos, recurvos y flechas de ambos tamaños. Fundamentos de arcos de disparo rápido."
+    ],
+    "501-BowMod.mod": [
+      "Fabricación especializada de arcos",
+      "Desbloquea el Yumi de apoyo preciso y el arco de cuerno de gran potencia a corta distancia. Requiere fabricación básica."
+    ],
+    "502-BowMod.mod": [
+      "Fabricación avanzada de arcos",
+      "Desbloquea el arco largo para ataques iniciales potentes y el recurvo II para fuego sostenido. Requiere fabricación especializada."
+    ],
+    "610-BowMod.mod": [
+      "Prueba de arcos",
+      ""
+    ],
+    "620-BowMod.mod": [
+      "Prueba de arcos",
+      "Inicio de desarrollo: seis personajes con los seis arcos y flechas."
+    ]
+  },
+  "ui": {
+    "BOW_LABEL": "Arcos",
+    "BOW_DESCRIPTION": "La habilidad con arcos mejora la precisión y la velocidad de tensado. La habilidad efectiva crece despacio hasta el nivel 60 y se acelera del 61 al 100. Se entrena y guarda por separado de las ballestas. Las heridas reducen el rendimiento. El tiro de precisión se comparte con las ballestas.",
+    "AFFECTED": "Atributos afectados:",
+    "ACCURACY": "-Precisión:",
+    "RELOAD": "-Velocidad de tensado / recarga:",
+    "PRECISION": "-Evasión de fuego amigo:",
+    "TRAINING": "Cómo entrenar:",
+    "TRAIN_BOW": "-Atacar objetivos con un arco",
+    "SHARED_PRECISION": "-El tiro de precisión se comparte con las ballestas"
+  }
+}
