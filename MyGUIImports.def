@@ -1,0 +1,3 @@
+LIBRARY MyGUIEngine_x64.dll
+EXPORTS
+    ??0Colour@MyGUI@@QEAA@MMMM@Z
